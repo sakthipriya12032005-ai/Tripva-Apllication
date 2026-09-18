@@ -109,9 +109,9 @@ Test cases can be updated during execution using the following statuses:
 
 ## 👨‍💻 Author
 
-**Kakarla Shiva**
+**SAKTHI PRIYA**
 
-Computer Science Engineering - IoT
+Information Technology
 
 ## 📄 License
 
